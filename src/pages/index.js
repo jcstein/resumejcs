@@ -17,8 +17,8 @@ export default function Home({ data }) {
           Hi, I'm Joshua
         </h1>
         <h3>Welcome to my resume!</h3>
-        <h4>Bachelor's of Science Supply Chain Management and Analytics, Virginia Commonwealth University School of Business</h4>
-        <h4>Mathematics minor Virginia Commonwealth University Department of Mathematics and Applied Mathematics</h4>
+        <h4>Bachelor's of Science, Supply Chain Management and Analytics, Virginia Commonwealth University School of Business</h4>
+        <h4>Mathematics minor, Virginia Commonwealth University Department of Mathematics and Applied Mathematics</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
