@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Joshua C. Stein | Résumé`,
-    description: 'Hi, welcome to my résumé.',
+    title: `Joshua C. Stein | Resume`,
+    description: 'Hi, welcome to my resume.',
     author: 'Joshua C. Stein',
   },
   plugins: [
