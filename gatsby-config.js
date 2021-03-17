@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Joshua C. Stein | Resume`,
+    title: `Josh Stein | Resume`,
     description: 'Hi, welcome to my resume.',
-    author: 'Joshua C. Stein',
+    author: 'Josh Stein',
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `© Joshua C. Stein`,
+        name: `© Josh Stein`,
         short_name: `© JCS`,
         start_url: `/`,
         background_color: `#fff0f5`,

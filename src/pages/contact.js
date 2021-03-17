@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
 export default function About({ data }) {
-  const post = data.markdownRemark
   return (
   <Layout>
       <h1>Contact Me</h1>

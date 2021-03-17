@@ -14,11 +14,10 @@ export default function Home({ data }) {
             border-bottom: 1px solid;
           `}
         >
-          Hi, I'm Joshua
+         <span role="img" aria-label="wave">👋</span> Hi, I'm Josh
         </h1>
-        <h3>Welcome to my resume!</h3>
-        <h4>Bachelor's of Science, Supply Chain Management and Analytics, Virginia Commonwealth University School of Business</h4>
-        <h4>Mathematics minor, Virginia Commonwealth University Department of Mathematics and Applied Mathematics</h4>
+        <h2>Bachelor's of Science, concentration in Supply Chain Management and Analytics, Virginia Commonwealth University (VCU) School of Business</h2>
+        <h2>Mathematics minor, VCU Department of Mathematics and Applied Mathematics</h2>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
