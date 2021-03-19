@@ -17,7 +17,7 @@ export default function Home({ data }) {
          <span role="img" aria-label="wave">👋</span> Hi, I'm Josh
         </h1>
         <h2>I'm a full-stack engineer who specializes in lightweight, functional web design.</h2>
-        <h2>Think of... an all-in-one technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces.</h2>
+        <h2>Think of me as... an all-in-one technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces.</h2>
         <h2>I'm passionate about reducing food waste, preserving our home planet and ensuring every person can eat the meals they need to survive on it.</h2>
         <h4>Let's solve some problems <Link to="/contact/">together</Link>.</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
