@@ -55,7 +55,7 @@ export default function Layout({ children }) {
       </main>
       <footer>
         <p></p>
-      © {new Date().getFullYear()} Copyright Joshua Stein. Built with
+      © {new Date().getFullYear()} Copyright Josh Stein. Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
