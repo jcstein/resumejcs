@@ -20,6 +20,7 @@ export default function Layout({ children }) {
         site {
           siteMetadata {
             title
+            description
           }
         }
       }
@@ -45,7 +46,7 @@ export default function Layout({ children }) {
           {data.site.siteMetadata.title}
         </h3>
       </Link>
-      <ul style={{ listStyle: 'none', float: 'right' }}> 
+      <ul style={{listStyle: 'none', float: 'right'}}> 
       <ListLink to="/about/">About</ListLink> 
       <ListLink to="/contact/">Contact</ListLink> 
       </ul>
