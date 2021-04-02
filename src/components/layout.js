@@ -48,7 +48,7 @@ export default function Layout({ children }) {
       </Link>
       <ul style={{listStyle: 'none', float: 'right'}}> 
       <ListLink to="/about/">About</ListLink> 
-      <ListLink to="https://de4z2a4oku6.typeform.com/to/KxDZRqLH">Contact</ListLink> 
+      <ListLink to="https://form.typeform.com/to/KxDZRqLH">Contact</ListLink> 
       </ul>
       </header>
       <main>

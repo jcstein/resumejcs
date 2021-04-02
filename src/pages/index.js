@@ -19,7 +19,7 @@ export default function Home({ data }) {
         <h2>I'm a full-stack engineer who specializes in lightweight, functional web design.</h2>
         <h4>Think of me as an all-in-one technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces.</h4>
         <h4>I'm passionate about reducing food waste, preserving our home planet and ensuring every person can eat the meals they need to survive on it.</h4>
-        <h4>Let's solve some problems <Link to="https://de4z2a4oku6.typeform.com/to/KxDZRqLH">together</Link>.</h4>
+        <h4>Let's solve some problems <Link to="https://form.typeform.com/to/KxDZRqLH">together</Link>.</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
