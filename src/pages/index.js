@@ -16,10 +16,9 @@ export default function Home({ data }) {
         >
          <span role="img" aria-label="wave">👋</span> Hi, I'm Josh
         </h1>
-        <h2>I'm a full-stack engineer who specializes in lightweight, functional web design.</h2>
-        <h4>Think of me as an all-in-one technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces.</h4>
-        <h4>I'm passionate about reducing food waste, preserving our home planet and ensuring every person can eat the meals they need to survive on it.</h4>
-        <h4>Let's solve some problems <Link to="https://form.typeform.com/to/KxDZRqLH">together</Link>.</h4>
+        <h4>I'm a full-stack entrepreneur who specializes in lightweight, functional web design.</h4>
+        <p>Think of me as a technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces. More specifically, I'm passionate about reducing food waste, preserving our home planet and ensuring every person can eat the meals they need to survive on it.</p>
+        <p>💻💾 I am currently learning build web experiences that are designed to reduce waste and help people around the globe. I've enjoyed learning to operate, break down and fix computers since I could walk.</p>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
@@ -29,7 +28,7 @@ export default function Home({ data }) {
                 color: inherit;
               `}
             >
-              <h3
+              <h4
                 css={css`
                   margin-bottom: ${rhythm(1 / 4)};
                 `}
@@ -42,13 +41,13 @@ export default function Home({ data }) {
                 >
                   — {node.frontmatter.date}
                 </span>
-              </h3>
+              </h4>
               <p>{node.excerpt}</p>
             </Link>
           </div>
         ))}
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       </div>
+      <h4>Made it this far? Let's solve some problems <Link to="../contact">together</Link>.</h4>
     </Layout>
   )
 }

@@ -48,7 +48,6 @@ export default function Layout({ children }) {
       </Link>
       <ul style={{listStyle: 'none', float: 'right'}}> 
       <ListLink to="/about/">About</ListLink> 
-      <ListLink to="https://form.typeform.com/to/KxDZRqLH">Contact</ListLink> 
       </ul>
       </header>
       <main>
@@ -58,7 +57,11 @@ export default function Layout({ children }) {
         <p></p>
       © {new Date().getFullYear()} Copyright Josh Stein. Built with
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <Link css={css`
+                text-decoration: none;
+                color: inherit;
+              `}
+              to={'https://www.gatsbyjs.com'}>Gatsby</Link>
       </footer>
       </div>
       </Container>

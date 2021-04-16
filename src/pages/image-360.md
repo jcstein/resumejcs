@@ -1,5 +1,5 @@
 ---
-title: "image360 of Arlington"
+title: "image360 of Arlington, Virginia"
 date: "2020-04-15"
 ---
 

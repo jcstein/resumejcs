@@ -9,7 +9,7 @@ export default function About({ data }) {
       <h1>Contact Me</h1>
       <form method="post" action="https://getform.io/f/74f2c1f5-b61e-4085-b274-ff32bb4ab989" enctype="multipart/form-data">
     <label>
-      Name  <p></p>
+      Name<p></p>
       <input type="text" name="name" id="name"/>
     </label>
     <p></p>
@@ -25,14 +25,13 @@ export default function About({ data }) {
     <p></p>
     <label>
       Message   <p></p>
-      <textarea name="message" id="message" rows="5" />
+      <textarea name="message" id="message" rows="3"/>
     </label>
     <p></p>
     <input type="file" name="file"/>
     <p></p>
-    <button type="submit">Send</button>
-    <p></p>
-    <input type="reset" value="Clear" />
+    <p>
+    <button type="submit">Send</button> <input type="reset" value="Clear" /></p>
     </form>
   </Layout>
   )
