@@ -7,7 +7,7 @@ date: "2019-03-06"
 
 ● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store
 
-[Click here to learn more.](https://www.lattice.supply)
+[Click here to Browse our Store.](https://www.lattice.supply)
 
 📐🖌 [Click here to see my Graphic Design portfolio](https://www.behance.net/joshuastein)
 
