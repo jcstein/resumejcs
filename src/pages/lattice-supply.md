@@ -3,11 +3,13 @@ title: "Lattice Supply"
 date: "2019-03-06"
 ---
 
-♻️🛹 Co-founder ● Graphic Designer ● Photographer
+♻️🛹 Co-founder<br />
+● Graphic Designer<br />
+● Photographer<br />
+<br />
+● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store<br />
 
-● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store
-
-[Click here to Browse our Store.](https://www.lattice.supply)
+[Click here to Browse our Store](https://www.lattice.supply)
 
 📐🖌 [Click here to see my Graphic Design portfolio](https://www.behance.net/joshuastein)
 
