@@ -8,8 +8,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `© Josh Stein`,
-        short_name: `© JCS`,
+        name: `Josh Stein`,
+        short_name: `JCS`,
         start_url: `/`,
         background_color: `#fff0f5`,
         theme_color: `#fff0f5`,
