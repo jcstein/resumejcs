@@ -3,7 +3,9 @@ title: "Lattice Supply"
 date: "2019-03-06"
 ---
 
-♻️🛹 Co-founder ● Graphic Designer ● Photographer ● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store.
+♻️🛹 Co-founder ● Graphic Designer ● Photographer
+
+● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store
 
 [Click here to learn more.](https://www.lattice.supply)
 
