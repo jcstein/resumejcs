@@ -11,7 +11,8 @@ body {
     background-color: snow;
   }
   footer {
-    background-color: snow;
+    background-color:#ffffff;
+    min-height: 50px;
   }
   header {
     background-color: snow;
