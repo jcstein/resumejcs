@@ -32,7 +32,7 @@ export default function Layout({ children }) {
       <Helmet>
           <meta charSet="utf-8" />
           <title>Josh Stein | Portfolio</title>
-          <link rel="canonical" href="http://jcstein.dev" />
+          <link rel="canonical" href="http://byjoshstein.com" />
         </Helmet>
       <header>
         <Link to={`/`}>
