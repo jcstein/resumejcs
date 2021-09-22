@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Josh Stein | Portfolio`,
+    title: `by Josh Stein | Portfolio`,
     description: 'Hi, welcome to my app.',
-    author: 'Josh Stein',
+    author: '',
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Josh Stein`,
-        short_name: `JCS`,
+        name: `by Josh Stein`,
+        short_name: `byJCS`,
         start_url: `/`,
         background_color: `#fff0f5`,
         theme_color: `#fff0f5`,
