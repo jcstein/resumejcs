@@ -16,10 +16,10 @@ export default function Home({ data }) {
         >
          <span role="img" aria-label="wave">👋</span> Hi, I'm Josh
         </h1>
-        <h3>I'm a full-stack entrepreneur who specializes in lightweight, functional web design.</h3>
-        <p>💻 💾 I am studying to become an AWS Certified Cloud Practitioner. I am focused on building web experiences that are designed to reduce waste and help people around the globe. I've enjoyed learning to operate, break down and fix computers since I could walk.</p>
-        <p>I'm a business technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces. I'm passionate about reducing food waste, preserving our home planet and ensuring every person can eat the meals they need to survive on it.</p>
-        <h2>Education and Professional Experience</h2>
+        <h3>💾 I'm a full-stack entrepreneur who specializes in lightweight, functional web design.</h3>
+        <p>💻 I'm studying to become an AWS Certified Cloud Practitioner. My focus is on building web experiences designed to reduce waste and help people around the globe. I've enjoyed learning to operate, break down and fix computers since I could walk.</p>
+        <p>📊 I'm a business technology consultant for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces. I'm passionate about reducing food waste, preserving our home planet and ensuring every person can eat the meals they need to survive on it.</p>
+        <h2>🎓 Education and Professional Experience 💼</h2>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
