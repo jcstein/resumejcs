@@ -3,7 +3,7 @@ title: "Virginia Commonwealth University School of Business"
 date: "2021-05-15"
 ---
 
-🎓🐏 Bachelor's of Science in Supply Chain Management and Analytics ● Mathematics minor, VCU Department of Mathematics and Applied Mathematics
+🎓 Bachelor's of Science in Supply Chain Management and Analytics 🐏 Mathematics minor, VCU Department of Mathematics and Applied Mathematics
 
 ● Relevant Coursework
 

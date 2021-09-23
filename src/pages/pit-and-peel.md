@@ -3,7 +3,7 @@ title: "The Pit and The Peel"
 date: "2018-11-30"
 ---
 
-🥑🍌 Richmond District Store Manager
+🥑 Richmond District Store Manager 🍌
 
 ● Managed food and labor cost, scheduling, private events and employees for two stores
 

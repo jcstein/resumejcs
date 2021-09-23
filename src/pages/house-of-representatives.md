@@ -3,7 +3,7 @@ title: "U.S. House of Representatives"
 date: "2013-08-31"
 ---
 
-🏛📜 Legislative Intern
+🏛 Legislative Intern 📜
 
 ● Informed Congressman and their staff on current issues by attending meetings, hearings and briefings
 

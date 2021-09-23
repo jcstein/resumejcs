@@ -3,7 +3,7 @@ title: "Project Restore Us"
 date: "2020-10-26"
 ---
 
-🍜🍚 Technology Stack Manager
+🍜 Technology Stack Manager 🍚
 
 ● Implemented live-stream fundraising technology for [Project Restore Us](https://projectrestoreus.org) to raise $54,000 in one month to feed essential worker families through the redistribution of existing commercial food supply chains
 

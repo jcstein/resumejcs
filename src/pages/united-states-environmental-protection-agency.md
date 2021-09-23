@@ -4,7 +4,7 @@ date: "2014-07-31"
 featuredImage: ../images/epa.png
 ---
 
-🌳☀️ Engineering Intern
+🌳 Engineering Intern ☀️
 
 ● Consolidated technical research, analysis and other policy-related assignments to a team of attorneys and engineers on complex regulatory matters involving the Clean Air Act and other environmental statutes and regulations.
 

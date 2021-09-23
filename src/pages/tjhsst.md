@@ -3,7 +3,7 @@ title: "Thomas Jefferson High School for Science and Technology"
 date: "2013-06-15"
 ---
 
-🧬🤖 3.98 GPA ●	Developed telemetry for conversion of DARPA ATV into an autonomous electric vehicle using C++ and Arduino in the Energy Systems Senior Reseach Laboratory
+🧬 3.98 GPA 🤖 Developed telemetry for conversion of DARPA ATV into an autonomous electric vehicle using C++ and Arduino in the Energy Systems Senior Reseach Laboratory
 
 ● Relevant Coursework
 

@@ -3,7 +3,7 @@ title: "Lattice Supply"
 date: "2019-03-06"
 ---
 
-♻️🛹 Co-founder
+♻️ Co-founder 🛹
 
 ● Graphic Designer
 

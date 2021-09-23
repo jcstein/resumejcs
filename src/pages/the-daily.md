@@ -3,7 +3,7 @@ title: "The Daily Kitchen and Bar"
 date: "2019-01-01"
 ---
 
-🥬🧅 Ordering Manager
+🥬 Ordering Manager 🧅
 
 ● Expeditor
 

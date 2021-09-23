@@ -2,7 +2,7 @@
 title: "RamTHON at VCU"
 date: "2015-09-28"
 ---
-🐏🎵 Corporate Relations Chair ● Publicity & Promotions Chair
+🐏 Corporate Relations Chair ● Publicity & Promotions Chair 🎵
 
 ● Wrote inaugural Corporate Sponsorship Proposal Packet
 
