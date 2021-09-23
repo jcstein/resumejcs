@@ -5,4 +5,4 @@ date: "2016-08-31"
 
 🍎🪛 Repair Technician
 
-● Diagnosed and repaired smartphones, tablets and computers.
+● Diagnosed and repaired iPhone, Android, PC and Mac devices

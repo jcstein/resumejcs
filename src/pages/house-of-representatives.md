@@ -3,9 +3,8 @@ title: "U.S. House of Representatives"
 date: "2013-08-31"
 ---
 
-🏛📜 Legislative Intern <br /> <br />
-● Informed Congressman on current issues by attending bipartisan meetings, hearings and briefings<br />
-● Wrote memorandums<br />
-● Led Capitol Building tours<br />
-● Answered constituent phone calls<br />
-● Handled office mail
+🏛📜 Legislative Intern
+
+● Informed Congressman and their staff on current issues by attending meetings, hearings and briefings
+
+● Led Capitol Building tours, managed constituent phone calls, handled office mail and wrote memorandums
