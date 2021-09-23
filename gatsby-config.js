@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `by Josh Stein | Portfolio`,
     description: 'Hi, welcome to my app.',
-    author: '',
+    author: 'Josh Stein',
   },
   plugins: [
     {

@@ -31,7 +31,7 @@ export default function Layout({ children }) {
       <div className="flexThisBox">
       <Helmet>
           <meta charSet="utf-8" />
-          <title>Josh Stein | Portfolio</title>
+          <title>by Josh Stein | Portfolio</title>
           <link rel="canonical" href="http://byjoshstein.com" />
         </Helmet>
       <header>
