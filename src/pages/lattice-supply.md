@@ -3,11 +3,13 @@ title: "Lattice Supply"
 date: "2019-03-06"
 ---
 
-♻️🛹 Co-founder<br />
-● Graphic Designer<br />
-● Photographer<br />
-<br />
-● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store<br />
+♻️🛹 Co-founder
+
+● Graphic Designer
+
+● Photographer
+
+● Demonstrated proficiency in Adobe Creative Suite, Google Analytics and Shopify in development of an online store
 
 [Click here to Browse our Store](https://www.lattice.supply)
 
@@ -15,7 +17,7 @@ date: "2019-03-06"
 
 📷🎥 I have been taking photographs and making videos since the early 2000s. I most recently picked up a Sony alpha 6300 and fell in love with it again in 2019. I made photos for Lattice Supply for the development and marketing of the brand. I also enjoy catching a Kendall Street Company show when I can. I was lucky enough to take photos at the 9:30 Club in D.C. for them where I had first seen Reel Big Fish play in 2010. Thank you Louis, Brian, Ryan, Jake and, of course, Peaches for having me along for some of the ride before the pandemic.
 
-I worked both LOCKN' Festival and Resonance festivals in 2019. 
+I worked LOCKN' Festival and Resonance festivals in 2019. 
  
 [Click here to view my Photography Portfolio](https://jcstein.com)
 

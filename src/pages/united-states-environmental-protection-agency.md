@@ -1,6 +1,7 @@
 ---
 title: "U.S. Environmental Protection Agency"
 date: "2014-07-31"
+featuredImage: ../images/epa.png
 ---
 
 🌳☀️ Engineering Intern
