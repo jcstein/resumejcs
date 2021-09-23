@@ -48,7 +48,7 @@ export default function Home({ data }) {
           </div>
         ))}
       </div>
-      <h4>Made it this far? Let's solve some problems <Link to="../contact">together</Link>.</h4>
+      <h4>Time to connect? Let's solve some problems <Link to="../contact">together</Link>.</h4>
     </Layout>
   )
 }

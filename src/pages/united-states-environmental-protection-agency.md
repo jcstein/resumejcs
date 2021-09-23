@@ -6,8 +6,6 @@ featuredImage: ../images/epa.png
 
 🌳☀️ Engineering Intern
 
-![https://upload.wikimedia.org/wikipedia/commons/6/6f/Seal_of_the_United_States_Environmental_Protection_Agency.svg](https://upload.wikimedia.org/wikipedia/commons/6/6f/Seal_of_the_United_States_Environmental_Protection_Agency.svg)
-
 ● Consolidated technical research, analysis and other policy-related assignments to a team of attorneys and engineers on complex regulatory matters involving the Clean Air Act and other environmental statutes and regulations.
 
 ● Work involved identifying potential violations of the law, enforcement case development, case support and investigative work.
